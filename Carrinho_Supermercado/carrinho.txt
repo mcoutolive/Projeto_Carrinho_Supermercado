@@ -1,0 +1,3 @@
+Codigo:1001|Produto:Acucar|Preco Unit.:R$2.99|Num.Itens: 3|ValorPago:R$8.97|
+Codigo:1003|Produto:Agua_oxigenada|Preco Unit.:R$3.19|Num.Itens: 4|ValorPago:R$12.76|
+Total de Itens:7 itens|Valor da Compra:R$21.73
